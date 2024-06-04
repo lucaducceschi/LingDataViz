@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Grid, Paper } from '@mui/material';
-import BloodPressureChart from './MetalHealthChart';
+import BloodPressureChart from './MentalHealthChart';
 import HealthTable from './HealthTable';
 
 function Dashboard() {
